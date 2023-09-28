@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Kacper Dudzinski
+subtitle: Learn more about me!
 ---
 
 👋 Hello there! My name is **Kacper Dudzinski** and I'm a **programmer** who's
