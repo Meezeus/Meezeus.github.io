@@ -20,7 +20,7 @@ BSc/MSci Computer Science) in the 2021-22 academic session.
 
 ❤ Aside from programming and video games, some of my other interests include
 Karate (which I have been practising for over 17 years, both as a student and as
-an instructor), board games/TTRPGs, legends/folklore/mythology and reading.
+an instructor), board games/TTRPGs, legends/folklore/mythology, reading and hiking.
 
 ## Contact
 
