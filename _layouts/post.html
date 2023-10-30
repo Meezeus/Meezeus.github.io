@@ -17,6 +17,8 @@ layout: base
           {% if page.gh-badge.size > 0 %}
             {% for badge in page.gh-badge %}
               {% case badge %}
+                {% when 'code'%}
+                  <iframe src="{{ site.url }}/assets/html/gh-btn.html?user={{ gh_user }}&repo={{ gh_repo }}" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
                 {% when 'star'%}
                   <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
                 {% when 'watch'%}
