@@ -17,9 +17,9 @@ landscape to contribute to a better future"_.
 ## Our Solution
 
 After spending some time brainstorming ideas, browsing Kaggle datasets and
-looking at various APIs, my team decided to create a website that will **help
-users find safe cycling routes** in London. Cycling is healthy, cheap and good
-for the environment. However, some people may be afraid to bike on the bustling
+looking at various APIs, my team decided to create a website that will help
+users find safe cycling routes in London. Cycling is healthy, cheap and good for
+the environment. However, some people may be afraid to bike on the bustling
 streets of the capital; [in 2021, there were 999 cyclists killed or seriously
 injured in Greater
 London](https://content.tfl.gov.uk/casualties-in-greater-london-2022.pdf).
