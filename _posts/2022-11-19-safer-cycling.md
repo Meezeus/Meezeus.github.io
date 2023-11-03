@@ -9,8 +9,8 @@ gh-badge: [code]
 
 **HackKing's** is a 12 hour hackathon organised by **KCL Tech** and sponsored by
 **BlackRock**. Working as a team of 5, we had to create a product to answer the
-challenge statement: _"How can we take advantage of the changing technological
-landscape to contribute to a better future"_.
+challenge statement: *"How can we take advantage of the changing technological
+landscape to contribute to a better future"*.
 
 ![]({{site.url}}/assets/img/safer-cycling.jpg){: .mx-auto.d-block :}
 
