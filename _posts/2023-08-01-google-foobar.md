@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google's Foobar Challenge"
-subtitle: A series of programming challenges created by Google to find potential new hires.
+subtitle: A series of programming challenges created by Google to find potential new hires
 thumbnail-img: /assets/img/foobar.jpg
 gh-repo: Meezeus/google-foobar
 gh-badge: [code]
