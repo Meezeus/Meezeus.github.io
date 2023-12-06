@@ -2,7 +2,7 @@
 layout: post
 title: "Google's Foobar Challenge"
 subtitle: A series of programming challenges created by Google to find potential new hires
-thumbnail-img: /assets/img/foobar.jpg
+thumbnail-img: /assets/img/google-foobar/foobar.jpg
 gh-repo: Meezeus/google-foobar
 gh-badge: [code]
 ---
@@ -14,7 +14,7 @@ trigger an invite, or receiving an invite from someone who has already taken
 part - each participant can invite up to 2 other people depending on their
 progress in the challenge. In my case, I was invited by a friend - thanks Mike!
 
-![]({{site.url}}/assets/img/foobar-login.jpg){: .mx-auto.d-block :}
+![]({{site.url}}/assets/img/google-foobar/foobar-login.jpg){: .mx-auto.d-block :}
 
 The challenge is split into 5 levels. Each level has a number of challenges that
 must be completed in order to progress to the next level:
@@ -1250,7 +1250,7 @@ enough. I was out of time and out of ideas. Since I did not pass all the test
 cases, I did not successfully complete this level. My foobar journey was over:
 so close to the end, and yet so far.
 
-![]({{site.url}}/assets/img/foobar-over.jpg){: .mx-auto.d-block :}
+![]({{site.url}}/assets/img/google-foobar/foobar-over.jpg){: .mx-auto.d-block :}
 
 [Jump to ToC](#table-of-contents)
 

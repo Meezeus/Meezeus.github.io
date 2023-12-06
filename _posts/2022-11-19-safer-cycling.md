@@ -2,7 +2,7 @@
 layout: post
 title: "HackKing's 2022: Safer Cycling"
 subtitle: A 12 hour hackathon organised by KCL Tech and sponsored by BlackRock
-thumbnail-img: /assets/img/safer-cycling.jpg
+thumbnail-img: /assets/img/safer-cycling/safer-cycling.jpg
 gh-repo: Meezeus/safer-cycling
 gh-badge: [code]
 ---
@@ -12,7 +12,7 @@ gh-badge: [code]
 challenge statement: *"How can we take advantage of the changing technological
 landscape to contribute to a better future"*.
 
-![]({{site.url}}/assets/img/safer-cycling.jpg){: .mx-auto.d-block :}
+![]({{site.url}}/assets/img/safer-cycling/safer-cycling.jpg){: .mx-auto.d-block :}
 
 ## Our Solution
 
@@ -30,7 +30,7 @@ three routes, each one color-coded based on how dangerous it is. Users can then
 select their preferred route and cycle to their destination with their minds at
 ease.
 
-![]({{site.url}}/assets/img/safer-cycling-website.png){: .mx-auto.d-block :}
+![]({{site.url}}/assets/img/safer-cycling/safer-cycling-website.png){: .mx-auto.d-block :}
 
 ## Details
 
