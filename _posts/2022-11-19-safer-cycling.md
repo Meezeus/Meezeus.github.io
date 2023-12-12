@@ -42,9 +42,9 @@ longitude to 4 decimal places, which makes locations close together have the
 same coordinates. Different weights are assigned to different severities of
 accidents, with fatal injuries being weighted more heavily than serious
 injuries, which are weighted more heavily than slight injuries. The sum of the
-weights for each location is then saved in a csv file, ready to be used by the
-application. This step needs to be run only once, unless you wish to update the
-data.
+weights for each location is then saved in a *.csv* file, ready to be used by
+the application. This step needs to be run only once, unless you wish to update
+the data.
 
 When the user provides a start and end location, we use the [openrouteservice
 API](https://github.com/GIScience/openrouteservice-py) to request 3 routes
