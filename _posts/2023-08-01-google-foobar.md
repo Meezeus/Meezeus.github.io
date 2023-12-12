@@ -866,7 +866,7 @@ Now I knew the best way to travel around, but I still had to figure out which
 bunnies to visit and in what order. I decided to use breadth-first search to
 explore the solution space. To help with this, I created a class to represent a
 possible solution. A solution keeps track of its location, which bunnies have
-not been collected, and the time left. In addition, I created a *move* method
+not been collected, and the time left. In addition, I created a `move` method
 which moves the solution from one location to another using the best possible
 route. 
 
@@ -918,7 +918,7 @@ current solution to the new list (the best number is also updated). If the
 current number is equal, it just adds the solution to the existing list.
 
 The last step is to extend the solution by moving to a previously unseen bunny.
-This is done by copying the current solution and using the *move* function on
+This is done by copying the current solution and using the `move` function on
 the copy for each bunny. The copied solutions are then added to the queue.
 
 ~~~ python
